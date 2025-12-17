@@ -45,15 +45,11 @@ Target Server (EC2)
 
 ### 2️⃣ Ansible Playbook Execution
 
-![](./img/php4.png)
-
-
-### 3️⃣ Package Installation & Logs
 
    ![](./img/LAMP.YML%20(2).png)
 
 
-### 4️⃣ PHP Info Page
+### 3️⃣ PHP Info Page
      
  ![](./img/php%20page%20(2).png)
 
@@ -82,7 +78,7 @@ ansible-playbook lamp.yml
 ```
 http://<EC2_PUBLIC_IP>
 ```
-You should see LAMP STACK SUCCESSFULLY DEPLOYED 🎉
+You should see LAMP STACK SUCCESSFULLY DEPLOYED 
 
 ## 🌟 Key Learnings
 
@@ -96,6 +92,7 @@ You should see LAMP STACK SUCCESSFULLY DEPLOYED 🎉
 
 ## 👩‍💻 Author
 
-**Vaishnavi Kadam**
+**Mansi Kadam**
 
 DevOps Engineer
+
